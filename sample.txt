@@ -13,3 +13,8 @@ GitT_02를 만들었음
 i'm new feature branch
 02에도 변경 발생
 i'm bugfix branch
+
+Rebase를 위한 편집작업
+또다시 편집
+
+여기까지 하고 rebase
