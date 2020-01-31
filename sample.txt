@@ -6,6 +6,10 @@ push test
 pull 원격 저장소의 내용을 가져오기
 작업 중.. 커밋하지 않고 stash로 분리하기
 GitT_01을 만들었음
+GitT_02를 만들었음
 01에도 변경 발생
 i'm new feature branch
+02에도 변경 발생
+i'm bugfix branch
+
 
